@@ -1,4 +1,16 @@
-### Hi there 👋
+Hi 👋 My name is Miraç!
+=======================
+
+Software Developer
+------------------
+
+I've been writing code for years and have made developments with various technologies. I have been involved in different projects and now I am involved in the development of web services and portal in a team that develops IoT projects.
+
+*   🌍  I'm based in Ankara, Turkey
+*   🖥️  See my portfolio at [My personal website](http://mirac.me)
+*   ✉️  You can contact me at [miracsa \[at\] yandex.com](mailto:miracsa [at] yandex.com)
+*   🚀  I'm currently working on [Connect ION Tech. Co.](http://connect-ion.co)
+*   ⚡  I am proactive and passionate software developer.
 
 <!--
 **mirac/mirac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
