@@ -8,7 +8,7 @@ I've been writing code for years and have made developments with various technol
 
 *   🌍  I'm based in Ankara, Turkey.
 *   🖥️  See my portfolio at [My personal website](https://mirac.me)
-*   ✉️  You can contact me at [miracsa \[at\] yandex.com](mailto:miracsa [at] yandex.com)
+*   ✉️  You can contact me at [miracsa \[at\] yandex.com]
 *   🚀  I'm currently working at Connect ION Tech. Co.
 *   ⚡  I am proactive and passionate software developer.
 
